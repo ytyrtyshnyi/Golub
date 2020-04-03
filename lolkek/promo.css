@@ -1,0 +1,182 @@
+﻿.foto1{
+width:;
+
+
+}
+.shapka{
+width:970px;	
+height:50px;
+margin-left:400px;
+}
+.tablshapka{
+position:fixed;
+
+
+}
+.vse{
+    height: 1080px; /* Высота блока */
+    width: 100%; /* Ширина блока */
+	background-image:url(foto/fon3.jpg);
+	
+}
+.vse2{
+    height: 1080px; /* Высота блока */
+    width: 100%; /* Ширина блока */
+	background-image:url(foto/fon4.png);
+	
+}
+.fotopolygon{
+width:100px; 
+height:130px;
+margin-left:60px;
+
+}	
+.tilt{
+
+	
+	
+	
+	
+}
+.dil{
+
+	
+	
+	
+	
+}
+
+.tom1{
+margin-left:500px;	
+height:380px;
+}
+.tom2{
+width:100%;	
+height:400px;
+margin-left:380px;	
+color:red;
+}
+.tabl{
+height:420px;
+width:100%;
+
+}
+.tabl1{
+width:280px;
+height:390px;
+margin-left:400px;	
+}
+
+body{
+background:black;
+height:200vh;	
+}	
+.but2{
+height:420px;	
+background-image:url(foto/csgopolygon1.png);	
+width:210px;
+	
+}
+.but3{
+height:420px;	
+background-image:url(foto/csgo500.png);	
+margin-left:100px;	
+width:210px;	
+}
+.but4{
+height:420px;	
+background-image:url(foto/csgofast.png);	
+margin-left:100px;	
+width:210px;	
+}
+.but5{
+height:420px;	
+background-image:url(foto/wtf.png);	
+margin-left:100px;	
+width:210px;	
+}
+.promo1{
+margin-left:25px;
+color:white;
+font: 25px Arial, sans-serif;
+text-shadow: black 0 0 2px;
+}
+.promo2{
+margin-left:30px;
+color:white;
+font: 25px Arial, sans-serif;
+text-shadow: black 0 0 2px;
+}	
+	
+	#button1 {
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  width: 170px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 45px;
+  margin: 10px 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #696969;
+  background: white;
+  box-shadow: 0 8px 15px rgba(0,0,0,.1);
+  transition: .3s;
+  
+}
+#button1:hover {
+  background: #A52A2A;
+  box-shadow: 0 15px 20px rgba(160,10,10,.4);
+  color: white;
+  transform: translateY(-7px);
+}
+#button2 {
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  padding: 12px 40px;
+  margin: 10px 20px;
+  border-radius: 30px;
+  background-image: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,26,1) 40%, rgba(0,255,175,1) 100%);
+  background-position: 100% 0;
+  background-size: 200% 200%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: white;
+  box-shadow: 0 16px 32px 0 rgba(0,40,120,.35);
+  transition: .5s;
+  margin-left:40px;
+  margin-top:30px;
+}
+#button2:hover {
+  box-shadow: 0 0 0 0 rgba(0,40,120,0);
+  background-position: 0 0;
+}
+#button2_1 {
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  padding: 12px 40px;
+  margin: 10px 20px;
+  border-radius: 30px;
+  background-image: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,26,1) 40%, rgba(0,255,175,1) 100%); 
+  background-position: 100% 0;
+  background-size: 200% 200%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  color: white;
+  box-shadow: 0 16px 32px 0 rgba(0,40,120,.35);
+  transition: .5s;
+  margin-left:30px;
+}
+#button2_1:hover {
+  box-shadow: 0 0 0 0 rgba(0,40,120,0);
+  background-position: 0 0;
+}
